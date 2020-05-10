@@ -93,7 +93,7 @@ const DetailPresenter = ({ result, loading, error }) =>
           bgImage={
             result.poster_path
               ? `https://image.tmdb.org/t/p/original${result.poster_path}`
-              : require("../../assets/noPosterSmall.png")
+              : require("../../assets/dog.jpeg")
           }
         />
         <Data>
