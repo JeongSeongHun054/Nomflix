@@ -20,7 +20,11 @@ Learning React and ES6 by building a Movie Discovery App.
 - [x] Movie Detail
 - [x] Search (Movies, TV)
 
-## Adding Function
+# Preview:
+
+Try it on [netlify](https://vigilant-leakey-13f68d.netlify.app/)
+
+## Code Challenges
 
 - [ ] IMDB Link
 - [ ] Tabs inside of Movie / Show Details (Yutube Videos, Production Company & Countries)
